@@ -1,3 +1,9 @@
+ifupdown2 (3.0.1~git20200616~cloudscale1) buster-cloudscale; urgency=medium
+
+  * Git snapshot build of 09cdf1c6ddd1fc940afd52d600690b561c96f82a for buster-cloudscale
+
+ -- Denis Krienbühl <denis.krienbuehl@cloudscale.ch>  Mon, 16 Jun 2020 11:49:30 +0200
+
 ifupdown2 (3.0.0-1) unstable; urgency=medium
 
    * New: python3 support
